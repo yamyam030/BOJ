@@ -20,4 +20,4 @@ int main(void)
 		if (rslt == 1)count++;
 	}
 	printf("%d", count);
-}/
+}
